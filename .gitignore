@@ -1,0 +1,12 @@
+*.tern-port
+*.fasl
+*.pyc
+node_modules/
+TAGS
+tags
+dist/
+vendor/
+venv/
+GTAGS
+GRTAGS
+GPATH

@@ -1,0 +1,39 @@
+body {
+	font-family: Tahoma, Verdana, Helvetica, Arial;
+    font-size: 18px;
+    margin: 0 auto;
+    max-width: 1280px;
+    padding: 0 1em;
+}
+
+header h1 {
+    text-align: center;
+}
+
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+ol.gallery {
+    overflow-x: scroll;
+}
+
+ol li {
+    list-style-type: none;
+    display: flex;
+    align-items:center;
+}
+
+ol li img {
+    padding-right: 1em;
+    vertical-align: middle;
+}
+
+main {
+    min-height: 600px;
+}
+
+footer {
+    padding: 1em 0;
+}

@@ -1,0 +1,14 @@
+[user]
+    email = 137628660+varsym@users.noreply.github.com
+    name = Varaxsho Symbolics
+[color]
+    ui = auto
+[diff]
+    submodule = log
+[filter "lfs"]
+    process = git-lfs filter-process
+    required = true
+    clean = git-lfs clean -- %f
+    smudge = git-lfs smudge -- %f
+[pull]
+    rebase = true
