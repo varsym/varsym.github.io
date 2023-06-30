@@ -27,6 +27,7 @@ ol li {
     list-style-type: none;
     display: flex;
     align-items:center;
+    padding-bottom: 1em;
 }
 
 ol li img {
