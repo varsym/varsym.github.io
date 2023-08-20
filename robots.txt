@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://varsym.com/sitemap.xml.gz
